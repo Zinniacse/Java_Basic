@@ -1,5 +1,7 @@
 package Java_Basic;
 
+import java.util.Scanner;
+
 public class Scanner_Input {
 
 	public static void main(String[] args) {
