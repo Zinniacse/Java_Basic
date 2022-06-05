@@ -1,6 +1,6 @@
 package Java_Basic;
 
-public class ChildInheritance {
+public class ChildInheritance extends ParentInheritance {
 
 public static void main(String[] args) {
 		
